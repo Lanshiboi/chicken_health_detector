@@ -1,0 +1,5 @@
+train: c:/Users/Lenovo/Downloads/chicken_health_detector/thermal_dataset/train/images
+val: c:/Users/Lenovo/Downloads/chicken_health_detector/thermal_dataset/val/images
+
+nc: 2
+names: ['Healthy', 'Possible_Fever', 'Possible_Bird_Flu', 'Infected']
